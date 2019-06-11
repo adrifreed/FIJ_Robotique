@@ -70,4 +70,4 @@ def writeBlock(address, block):
 		return op
 	except IOError:
 		return -1
-return 1
+	return 1
