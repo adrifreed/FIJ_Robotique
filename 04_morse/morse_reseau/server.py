@@ -2,7 +2,7 @@ import network
 import comMorse
 import ledArduino
 
-ADDRESS=""
+ADDRESS="10.0.0.190"
 PORT=1111
 
 socket = network.newServerSocket()
